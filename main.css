@@ -1,0 +1,77 @@
+/*
+#C60F7B
+#D6D1CD
+*/
+html{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #C60F7B;
+  float: right;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #555;
+  color: white;
+}
+
+#header-name{
+    background-color: #C60F7B;
+    width: fit-content;
+}
+
+#nav-bar{
+    display: block;
+    height: fit-content;
+    color: #C60F7B;
+}
+
+#shop-container{
+    width: 60%;
+    margin: auto;
+    overflow: hidden ;
+    background: black;
+}
+
+.shop-item{
+    width: 80%;
+    height:;
+    float: left;
+}
+
+.item-frame{
+    width: 200px;
+}
+
+#footer{
+
+}
+
+#shopTable{
+    margin: auto;
+}
+
+#header-name{
+    margin-top: 0%;
+    
+}
+
+#header-div{
+    
+}
